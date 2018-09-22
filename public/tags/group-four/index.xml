@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Four on Academic</title>
+    <link>/tags/group-four/</link>
+    <description>Recent content in Group Four on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/group-four/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Group Four</title>
+      <link>/project/2018-09-22-group-four/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/2018-09-22-group-four/</guid>
+      <description> Strategical reasoning in social networks  Johan van Benthem (Stanford &amp;amp; Tsinghua)  Dominik Klein ( Bayreuth University)
+ GUO Meiyun (South West University) XIONG Zuojun (South West University) JIANG Guifei (Nankai University） Davide Grossi (University of Groningen) LI Dazhu (Tsinghua University)   </description>
+    </item>
+    
+  </channel>
+</rss>

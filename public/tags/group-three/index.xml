@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Three on Academic</title>
+    <link>/tags/group-three/</link>
+    <description>Recent content in Group Three on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/group-three/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Group Three</title>
+      <link>/project/2018-09-22-group-three/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/2018-09-22-group-three/</guid>
+      <description> Modeling formation and dynamics of social norms  LIAO Beishui (Zhejiang University）  WANG Yi (Zheijiang University) JU Fengkui (Beijing normal University) Olivier Roy (Bayreuth University) DONG Huimin (Zhejiang University) Wu Xiaoan (Tsinghua University)   </description>
+    </item>
+    
+  </channel>
+</rss>

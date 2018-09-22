@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Two on Academic</title>
+    <link>/tags/group-two/</link>
+    <description>Recent content in Group Two on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/group-two/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Group Two</title>
+      <link>/project/group-two/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/group-two/</guid>
+      <description> Belief revision guided by evidence and trust  LIU Xinwen (Chinese Academy of Social Sciences)  WANG Yanjing (Peking University) YU Junhua (Tsinghua) SHI Chenwei (Amsterdam) Emiliano Lorini (Toulouse) Alexandru Baltag (Amsterdam)   </description>
+    </item>
+    
+  </channel>
+</rss>

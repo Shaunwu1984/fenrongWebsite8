@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/example-external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/example-external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Four</title>
+      <link>/project/2018-09-22-group-four/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/2018-09-22-group-four/</guid>
+      <description> Strategical reasoning in social networks  Johan van Benthem (Stanford &amp;amp; Tsinghua)  Dominik Klein ( Bayreuth University)
+ GUO Meiyun (South West University) XIONG Zuojun (South West University) JIANG Guifei (Nankai University） Davide Grossi (University of Groningen) LI Dazhu (Tsinghua University)   </description>
+    </item>
+    
+    <item>
+      <title>Group One</title>
+      <link>/project/group-one/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/group-one/</guid>
+      <description> Logic of social structure and social influence  Jeremy Seligman (Auckland &amp;amp; Tsinghua)  MA Minghui (Sun Yan-sen University) DONG Huanfang (Weibo) LIN Hanti (UC Davis) ZHU Rui (Auckland University) CHEN Yu (Tsinghua University)   </description>
+    </item>
+    
+    <item>
+      <title>Group Three</title>
+      <link>/project/2018-09-22-group-three/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/2018-09-22-group-three/</guid>
+      <description> Modeling formation and dynamics of social norms  LIAO Beishui (Zhejiang University）  WANG Yi (Zheijiang University) JU Fengkui (Beijing normal University) Olivier Roy (Bayreuth University) DONG Huimin (Zhejiang University) Wu Xiaoan (Tsinghua University)   </description>
+    </item>
+    
+    <item>
+      <title>Group Two</title>
+      <link>/project/group-two/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/group-two/</guid>
+      <description> Belief revision guided by evidence and trust  LIU Xinwen (Chinese Academy of Social Sciences)  WANG Yanjing (Peking University) YU Junhua (Tsinghua) SHI Chenwei (Amsterdam) Emiliano Lorini (Toulouse) Alexandru Baltag (Amsterdam)   </description>
+    </item>
+    
+  </channel>
+</rss>
