@@ -1,10 +1,10 @@
 +++
-title = "Losing Connections: Modal Logics of Definable Link Deletion"
+title = "关于规范、价值和偏好的实践推理"
 date = 2018-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Dazhu Li"]
+authors = ["廖备水","余喆","莱恩∙范德托"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ authors = ["Dazhu Li"]
 publication_types = [1]
 
 # Publication name and optional abbreviated version.
-publication = "accepted and presented at LOFT 13, Milano"
+publication = "清华大学学报（即将发表）"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -71,5 +71,4 @@ highlight = true
 image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 +++
-
 
