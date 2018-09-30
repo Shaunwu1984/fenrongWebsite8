@@ -337,8 +337,8 @@ enableGitInfo = false
   languageCode = "en-us"
 
 # Uncomment the lines below to configure your website in a second language.
-#[languages.zh]
-#  languageCode = "zh-Hans"
+[languages.zh]
+  languageCode = "zh-Hans"
 #  title = "Chinese website title..."
 #  [languages.zh.params]
 #    name = "Your name in Chinese..."
