@@ -1,10 +1,10 @@
 +++
-title = ""
-date = 2015-09-01T00:00:00
+title = "国家社科基金重大项目“基于社交网络的信息流逻辑研究”研讨会会议综述"
+date = 2018-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["邢锟","陈钰"]
 
 # Publication type.
 # Legend:
@@ -15,10 +15,10 @@ authors = []
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = []
+publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "哲学动态（即将发表）"
 publication_short = ""
 
 # Abstract and optional shortened version.

@@ -46,6 +46,15 @@
     </item>
     
     <item>
+      <title>国家社科基金重大项目“基于社交网络的信息流逻辑研究”研讨会会议综述</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Losing Connections: Modal Logics of Definable Link Deletion</title>
       <link>/publication/clothing-search/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
@@ -388,15 +397,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/person-re-identification/</guid>
-      <description></description>
     </item>
     
     <item>
