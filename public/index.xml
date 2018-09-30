@@ -134,15 +134,6 @@
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Group Four</title>
       <link>/project/2018-09-22-group-four/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
@@ -244,6 +235,21 @@
 &lt;li&gt;Alexandru Baltag (Amsterdam)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The project “Logics of Information Flow in Social Networks”</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/post/getting-started/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Below is the program of this workshop:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project1.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
