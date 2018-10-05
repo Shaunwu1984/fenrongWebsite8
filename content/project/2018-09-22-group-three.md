@@ -31,6 +31,22 @@ caption = "My caption :smile:"
 
 ## Modeling formation and dynamics of social norms
 
+
+* The aspects that will explored by this group:
+
+
+This has a close relationship  with the theory of
+   values/preference. In particular, we ask the following questions:
+   how to aggregate / relate individual values, responsibilities,
+  actions to collective/social values, responsibilities,  actions? 
+  again, does social structures influence the process of
+  aggregation? if so, how?  Next, regarding the formation of  social
+  norms which has been studied by computer science through
+ simulations, can we say anything about it from a logical point of
+  view?  when we design robots or any AI systems, how do we embed
+   social values / social norms / legal norms  to the systems so that
+    their behavior can be aligned with human values and norms?
+
 ![](/project/2018-09-22-group-three_files/liao.jpg)
 
 * [LIAO Beishui](https://person.zju.edu.cn/beishui) (Zhejiang University） 

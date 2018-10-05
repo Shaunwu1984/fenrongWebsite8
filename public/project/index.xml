@@ -18,8 +18,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/2018-09-22-group-four/</guid>
-      <description> Strategical reasoning in social networks  Johan van Benthem (Stanford &amp;amp; Tsinghua)  Dominik Klein ( Bayreuth University)
- GUO Meiyun (South West University) XIONG Zuojun (South West University) JIANG Guifei (Nankai University） Davide Grossi (University of Groningen) LI Dazhu (Tsinghua University)   </description>
+      <description>Strategical reasoning in social networks  The aspects that will explored by this group:  Games are a powerful method for analyzing social practices, but also for designing new practices. They are also attractive because of their perspicuous links with logic and computation. In this part, we will study a variety of graph games that model various basic social scenarios, and we do so in tandem with the development of new dynamic logics that specify properties of the games and that encode reasoning about players, equilibira and long-term temporal evolution.</description>
     </item>
     
     <item>
@@ -28,7 +27,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-one/</guid>
-      <description> Logic of social structure and social influence  Jeremy Seligman (Auckland &amp;amp; Tsinghua)  MA Minghui (Sun Yan-sen University) DONG Huanfang (Weibo) LIN Hanti (UC Davis) ZHU Rui (Auckland University) CHEN Yu (Tsinghua University)   </description>
+      <description>Logic of social structure and social influence what we do now
+ The aspects that will explored by this group:  We emphasize the importance of social relations, and will study systematically how they play a role in social communication. We will explore social phenomena using tools from logic and computer science, specifically the mechanisms by which these phenomena can emerge from discrete interactions between individuals. As an example, the diffusion of an idea within a community can be modelled using cellular automata or dynamic modal logic.</description>
     </item>
     
     <item>
@@ -37,7 +37,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/2018-09-22-group-three/</guid>
-      <description> Modeling formation and dynamics of social norms  LIAO Beishui (Zhejiang University）  WANG Yi (Zheijiang University) JU Fengkui (Beijing normal University) Olivier Roy (Bayreuth University) DONG Huimin (Zhejiang University) Wu Xiaoan (Tsinghua University)   </description>
+      <description>Modeling formation and dynamics of social norms  The aspects that will explored by this group:  This has a close relationship with the theory of values/preference. In particular, we ask the following questions: how to aggregate / relate individual values, responsibilities, actions to collective/social values, responsibilities, actions? again, does social structures influence the process of aggregation? if so, how? Next, regarding the formation of social norms which has been studied by computer science through simulations, can we say anything about it from a logical point of view?</description>
     </item>
     
     <item>
@@ -46,7 +46,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-two/</guid>
-      <description> Belief revision guided by evidence and trust  LIU Xinwen (Chinese Academy of Social Sciences)  WANG Yanjing (Peking University) YU Junhua (Tsinghua) SHI Chenwei (Amsterdam) Emiliano Lorini (Toulouse) Alexandru Baltag (Amsterdam)   </description>
+      <description>Belief revision guided by evidence and trust  The aspects that will explored by this group：  Agents change their belief and opinions in social networks, under the influence of other agents. Rational agents do so with a reason, they may collect evidence, or argument, to justify what they do. There are various frameworks that have been developed to model it. For this project, we would like to compare the existing frameworks, and develop some tools that can help us to see how the opinions with evidence would spread and so that we could make predictions.</description>
     </item>
     
   </channel>

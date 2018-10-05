@@ -110,30 +110,6 @@
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
-      
-      <guid>/talk/example-talk/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Group Four</title>
       <link>/project/2018-09-22-group-four/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
@@ -142,6 +118,23 @@
       <description>
 
 &lt;h2 id=&#34;strategical-reasoning-in-social-networks&#34;&gt;Strategical reasoning in social networks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Games are a powerful method for analyzing social practices, but
+   also for designing new practices. They are also attractive because
+    of their perspicuous links with logic and computation. In this
+    part, we will study a variety of graph games that  model various
+   basic social scenarios, and we do so in tandem with the
+  development of new dynamic logics that specify  properties of the
+   games and that encode reasoning about  players, equilibira and
+    long-term temporal evolution. The result will be a systematic view
+   of game design and logic design that spans the range from the
+   study of actual games played in practice to the varieties of games
+   found in the computational study of social networks, and even to
+   the mathematical foundations of the logic-games interface.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-four_files/Johan.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -170,6 +163,24 @@
 
 &lt;h2 id=&#34;logic-of-social-structure-and-social-influence&#34;&gt;Logic of social structure and social influence&lt;/h2&gt;
 
+&lt;p&gt;what we do now&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We emphasize the importance of social relations, and will study
+    systematically how they play a role in social communication. We
+   will explore social phenomena using tools from logic and computer
+  science, specifically the mechanisms by which these phenomena can
+   emerge from discrete interactions between individuals. As an
+  example, the diffusion of an idea within a community can be
+ modelled using cellular automata or dynamic modal logic. Of
+  particular interest are epistemic interactions involving the
+  exchange of information and social aspects of knowledge, such the
+  ways in which knowledge can be said to be possessed by groups and
+how this depends on social structure and capacity to communicate.&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;/project/group one_files/Seligman.png&#34; alt=&#34;&#34; width=&#34;80%&#34;/&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -196,6 +207,22 @@
 
 &lt;h2 id=&#34;modeling-formation-and-dynamics-of-social-norms&#34;&gt;Modeling formation and dynamics of social norms&lt;/h2&gt;
 
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This has a close relationship  with the theory of
+   values/preference. In particular, we ask the following questions:
+   how to aggregate / relate individual values, responsibilities,
+  actions to collective/social values, responsibilities,  actions?
+  again, does social structures influence the process of
+  aggregation? if so, how?  Next, regarding the formation of  social
+  norms which has been studied by computer science through
+ simulations, can we say anything about it from a logical point of
+  view?  when we design robots or any AI systems, how do we embed
+   social values / social norms / legal norms  to the systems so that
+    their behavior can be aligned with human values and norms?&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-three_files/liao.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -221,6 +248,21 @@
       <description>
 
 &lt;h2 id=&#34;belief-revision-guided-by-evidence-and-trust&#34;&gt;Belief revision guided by evidence and trust&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group：&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Agents change their belief and opinions in social networks, under
+the influence of other agents. Rational agents do so with a
+reason, they may  collect evidence, or argument, to justify what
+they do.  There are  various frameworks that have been developed
+ to model it. For this project, we would like to compare the
+  existing frameworks, and develop some tools that can help us to
+  see how the opinions with evidence would spread and so that we
+  could make predictions. In addition,  we would like to connect
+  this to other theories, say, the learning theory, by asking how
+  we can ensure the group belief is approaching the true knowledge.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/project/group two_files/IMG_3879.JPG&#34; alt=&#34;&#34; width=&#34;80%&#34;/&gt;&lt;/p&gt;
 
@@ -250,6 +292,16 @@
 
 &lt;p&gt;&lt;img src=&#34;http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project1.png&#34; alt=&#34;&#34; /&gt;
 &lt;img src=&#34;http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A beautiful pie chart</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

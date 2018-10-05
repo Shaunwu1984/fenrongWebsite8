@@ -30,6 +30,24 @@ caption = "My caption :smile:"
 
 ## Logic of social structure and social influence
 
+what we do now
+
+* The aspects that will explored by this group:
+
+We emphasize the importance of social relations, and will study
+    systematically how they play a role in social communication. We
+   will explore social phenomena using tools from logic and computer
+  science, specifically the mechanisms by which these phenomena can
+   emerge from discrete interactions between individuals. As an
+  example, the diffusion of an idea within a community can be
+ modelled using cellular automata or dynamic modal logic. Of
+  particular interest are epistemic interactions involving the
+  exchange of information and social aspects of knowledge, such the
+  ways in which knowledge can be said to be possessed by groups and
+how this depends on social structure and capacity to communicate.
+
+
+
 
 <img src="/project/group one_files/Seligman.png" alt="" width="80%"/>
 

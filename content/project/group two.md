@@ -30,6 +30,20 @@ caption = "My caption :smile:"
 
 ## Belief revision guided by evidence and trust
 
+* The aspects that will explored by this group：
+
+Agents change their belief and opinions in social networks, under
+the influence of other agents. Rational agents do so with a
+reason, they may  collect evidence, or argument, to justify what
+they do.  There are  various frameworks that have been developed
+ to model it. For this project, we would like to compare the
+  existing frameworks, and develop some tools that can help us to
+  see how the opinions with evidence would spread and so that we
+  could make predictions. In addition,  we would like to connect
+  this to other theories, say, the learning theory, by asking how 
+  we can ensure the group belief is approaching the true knowledge. 
+
+
 <img src="/project/group two_files/IMG_3879.JPG" alt="" width="80%"/>
 
 
