@@ -52,3 +52,5 @@ caption = "1950s"
 ![](http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project1.png)
 ![](http://tsinghualogic.net/JRC/wp-content/uploads/2018/09/project2.png)
 
+* Below is the poster:
+![](/post/getting-started_files/poster1.png)
