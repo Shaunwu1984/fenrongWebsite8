@@ -30,7 +30,7 @@ caption = "My caption :smile:"
 
 ## Logic of social structure and social influence
 
-what we do now
+
 
 * The aspects that will explored by this group:
 
