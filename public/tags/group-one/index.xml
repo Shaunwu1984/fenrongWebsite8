@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 22 Apr 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/group-one/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Group One</title>
       <link>/project/group-one/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-one/</guid>
       <description>Logic of social structure and social influence  The aspects that will explored by this group:  We emphasize the importance of social relations, and will study systematically how they play a role in social communication. We will explore social phenomena using tools from logic and computer science, specifically the mechanisms by which these phenomena can emerge from discrete interactions between individuals. As an example, the diffusion of an idea within a community can be modelled using cellular automata or dynamic modal logic.</description>

@@ -110,53 +110,9 @@
     </item>
     
     <item>
-      <title>Group Four</title>
-      <link>/project/2018-09-22-group-four/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/2018-09-22-group-four/</guid>
-      <description>
-
-&lt;h2 id=&#34;strategical-reasoning-in-social-networks&#34;&gt;Strategical reasoning in social networks&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Games are a powerful method for analyzing social practices, but
-   also for designing new practices. They are also attractive because
-    of their perspicuous links with logic and computation. In this
-    part, we will study a variety of graph games that  model various
-   basic social scenarios, and we do so in tandem with the
-  development of new dynamic logics that specify  properties of the
-   games and that encode reasoning about  players, equilibira and
-    long-term temporal evolution. The result will be a systematic view
-   of game design and logic design that spans the range from the
-   study of actual games played in practice to the varieties of games
-   found in the computational study of social networks, and even to
-   the mathematical foundations of the logic-games interface.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-four_files/Johan.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://staff.science.uva.nl/j.vanbenthem/&#34; target=&#34;_blank&#34;&gt;Johan van Benthem&lt;/a&gt; (Stanford &amp;amp; Tsinghua)
-
-&lt;ul&gt;
-&lt;li&gt;Dominik Klein ( Bayreuth University)&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;GUO Meiyun (South West University)&lt;/li&gt;
-&lt;li&gt;XIONG Zuojun (South West University)&lt;/li&gt;
-&lt;li&gt;JIANG Guifei (Nankai University）&lt;/li&gt;
-&lt;li&gt;Davide Grossi (University of Groningen)&lt;/li&gt;
-&lt;li&gt;LI Dazhu (Tsinghua University)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Group One</title>
       <link>/project/group-one/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-one/</guid>
       <description>
@@ -196,51 +152,9 @@ how this depends on social structure and capacity to communicate.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Group Three</title>
-      <link>/project/2018-09-22-group-three/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/2018-09-22-group-three/</guid>
-      <description>
-
-&lt;h2 id=&#34;modeling-formation-and-dynamics-of-social-norms&#34;&gt;Modeling formation and dynamics of social norms&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This has a close relationship  with the theory of
-   values/preference. In particular, we ask the following questions:
-   how to aggregate / relate individual values, responsibilities,
-  actions to collective/social values, responsibilities,  actions?
-  again, does social structures influence the process of
-  aggregation? if so, how?  Next, regarding the formation of  social
-  norms which has been studied by computer science through
- simulations, can we say anything about it from a logical point of
-  view?  when we design robots or any AI systems, how do we embed
-   social values / social norms / legal norms  to the systems so that
-    their behavior can be aligned with human values and norms?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-three_files/liao.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://person.zju.edu.cn/beishui&#34; target=&#34;_blank&#34;&gt;LIAO Beishui&lt;/a&gt; (Zhejiang University）
-
-&lt;ul&gt;
-&lt;li&gt;WANG Yi (Zheijiang University)&lt;/li&gt;
-&lt;li&gt;JU Fengkui (Beijing normal University)&lt;/li&gt;
-&lt;li&gt;Olivier Roy (Bayreuth University)&lt;/li&gt;
-&lt;li&gt;DONG Huimin (Zhejiang University)&lt;/li&gt;
-&lt;li&gt;Wu Xiaoan (Tsinghua University)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Group Two</title>
       <link>/project/group-two/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-two/</guid>
       <description>
@@ -279,6 +193,48 @@ they do.  There are  various frameworks that have been developed
     </item>
     
     <item>
+      <title>Group Three</title>
+      <link>/project/group-three/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/group-three/</guid>
+      <description>
+
+&lt;h2 id=&#34;modeling-formation-and-dynamics-of-social-norms&#34;&gt;Modeling formation and dynamics of social norms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This has a close relationship  with the theory of
+   values/preference. In particular, we ask the following questions:
+   how to aggregate / relate individual values, responsibilities,
+  actions to collective/social values, responsibilities,  actions?
+  again, does social structures influence the process of
+  aggregation? if so, how?  Next, regarding the formation of  social
+  norms which has been studied by computer science through
+ simulations, can we say anything about it from a logical point of
+  view?  when we design robots or any AI systems, how do we embed
+   social values / social norms / legal norms  to the systems so that
+    their behavior can be aligned with human values and norms?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-three_files/liao.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://person.zju.edu.cn/beishui&#34; target=&#34;_blank&#34;&gt;LIAO Beishui&lt;/a&gt; (Zhejiang University）
+
+&lt;ul&gt;
+&lt;li&gt;WANG Yi (Zheijiang University)&lt;/li&gt;
+&lt;li&gt;JU Fengkui (Beijing normal University)&lt;/li&gt;
+&lt;li&gt;Olivier Roy (Bayreuth University)&lt;/li&gt;
+&lt;li&gt;DONG Huimin (Zhejiang University)&lt;/li&gt;
+&lt;li&gt;Wu Xiaoan (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The project “Logics of Information Flow in Social Networks”</title>
       <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
@@ -296,6 +252,50 @@ they do.  There are  various frameworks that have been developed
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&#34;/post/getting-started_files/poster1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group Four</title>
+      <link>/project/group-four/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/project/group-four/</guid>
+      <description>
+
+&lt;h2 id=&#34;strategical-reasoning-in-social-networks&#34;&gt;Strategical reasoning in social networks&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The aspects that will explored by this group:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Games are a powerful method for analyzing social practices, but
+   also for designing new practices. They are also attractive because
+    of their perspicuous links with logic and computation. In this
+    part, we will study a variety of graph games that  model various
+   basic social scenarios, and we do so in tandem with the
+  development of new dynamic logics that specify  properties of the
+   games and that encode reasoning about  players, equilibira and
+    long-term temporal evolution. The result will be a systematic view
+   of game design and logic design that spans the range from the
+   study of actual games played in practice to the varieties of games
+   found in the computational study of social networks, and even to
+   the mathematical foundations of the logic-games interface.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/project/2018-09-22-group-four_files/Johan.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://staff.science.uva.nl/j.vanbenthem/&#34; target=&#34;_blank&#34;&gt;Johan van Benthem&lt;/a&gt; (Stanford &amp;amp; Tsinghua)
+
+&lt;ul&gt;
+&lt;li&gt;Dominik Klein ( Bayreuth University)&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;GUO Meiyun (South West University)&lt;/li&gt;
+&lt;li&gt;XIONG Zuojun (South West University)&lt;/li&gt;
+&lt;li&gt;JIANG Guifei (Nankai University）&lt;/li&gt;
+&lt;li&gt;Davide Grossi (University of Groningen)&lt;/li&gt;
+&lt;li&gt;LI Dazhu (Tsinghua University)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

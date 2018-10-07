@@ -49,9 +49,5 @@ filter_default = 0
   name = "Group Four"
   tag = "Group Four"
 
-
-  
-
-
 +++
 

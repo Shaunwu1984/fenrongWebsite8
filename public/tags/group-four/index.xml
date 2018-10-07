@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/group-four/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Group Four</title>
-      <link>/project/2018-09-22-group-four/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <link>/project/group-four/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/project/2018-09-22-group-four/</guid>
+      <guid>/project/group-four/</guid>
       <description>Strategical reasoning in social networks  The aspects that will explored by this group:  Games are a powerful method for analyzing social practices, but also for designing new practices. They are also attractive because of their perspicuous links with logic and computation. In this part, we will study a variety of graph games that model various basic social scenarios, and we do so in tandem with the development of new dynamic logics that specify properties of the games and that encode reasoning about players, equilibira and long-term temporal evolution.</description>
     </item>
     

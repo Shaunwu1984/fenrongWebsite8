@@ -15,7 +15,7 @@ authors = ["约翰·范本特姆","刘奋荣"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = [1]
+publication_types = [2]
 
 # Publication name and optional abbreviated version.
 publication = "清华大学学报（即将发表）"

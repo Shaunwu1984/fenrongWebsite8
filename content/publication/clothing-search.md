@@ -54,7 +54,7 @@ tags = []
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Conference Link", url = "http://www.igier.unibocconi.it/folder.php?vedi=6404&tbn=albero&id_folder=4916"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

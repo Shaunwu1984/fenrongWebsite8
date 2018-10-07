@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Apr 2016 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/tags/group-two/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Group Two</title>
       <link>/project/group-two/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/project/group-two/</guid>
       <description>Belief revision guided by evidence and trust  The aspects that will explored by this group：  Agents change their belief and opinions in social networks, under the influence of other agents. Rational agents do so with a reason, they may collect evidence, or argument, to justify what they do. There are various frameworks that have been developed to model it. For this project, we would like to compare the existing frameworks, and develop some tools that can help us to see how the opinions with evidence would spread and so that we could make predictions.</description>
