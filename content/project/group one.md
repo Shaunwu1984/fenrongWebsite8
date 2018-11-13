@@ -9,7 +9,7 @@ title = "Group One"
 summary = "Logic of social structure and social influence."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "jiankou.jpg"
+image_preview = "xiaomen.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
@@ -32,7 +32,7 @@ caption = "My caption :smile:"
 
 
 
-* The aspects that will explored by this group:
+
 
 We emphasize the importance of social relations, and will study
     systematically how they play a role in social communication. We
@@ -49,15 +49,15 @@ how this depends on social structure and capacity to communicate.
 
 
 
-<img src="/project/group one_files/Seligman.png" alt="" width="80%"/>
+
 
 
 
 
 * Jeremy Seligman (Auckland & Tsinghua)
     + MA Minghui (Sun Yan-sen University)
-    + DONG Huanfang  (Weibo) 
-    + LIN Hanti (UC Davis)
+    + DONG Huanfang  (Tsinghua University) 
+    + LIN Hanti (University of California,Davis)
     + ZHU Rui (Auckland University) 
     + CHEN Yu (Tsinghua University) 
 

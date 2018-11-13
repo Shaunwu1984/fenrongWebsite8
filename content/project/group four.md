@@ -9,7 +9,7 @@ title = "Group Four"
 summary = "Strategical reasoning in social networks."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "zhu.jpg"
+image_preview = "xiaoyuan4.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,14 +23,14 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
 ## Strategical reasoning in social networks
 
-* The aspects that will explored by this group:
+
 
 Games are a powerful method for analyzing social practices, but
    also for designing new practices. They are also attractive because
@@ -46,10 +46,10 @@ Games are a powerful method for analyzing social practices, but
    the mathematical foundations of the logic-games interface.
 
 
-![](/project/2018-09-22-group-four_files/Johan.jpg)
+
 
 * [Johan van Benthem](https://staff.science.uva.nl/j.vanbenthem/) (Stanford & Tsinghua) 
-    + Dominik Klein ( Bayreuth University)  
+    + Dominik Klein (University of Bayreuth)  
     + GUO Meiyun (South West University)
     + XIONG Zuojun (South West University)
     + JIANG Guifei (Nankai University）

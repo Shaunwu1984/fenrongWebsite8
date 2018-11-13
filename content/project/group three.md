@@ -9,7 +9,7 @@ title = "Group Three"
 summary = "Modeling formation and dynamics of social norms."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "you.jpg"
+image_preview = "xiaoyuan3.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
@@ -32,7 +32,7 @@ caption = "My caption :smile:"
 ## Modeling formation and dynamics of social norms
 
 
-* The aspects that will explored by this group:
+
 
 
 This has a close relationship  with the theory of
@@ -47,11 +47,11 @@ This has a close relationship  with the theory of
    social values / social norms / legal norms  to the systems so that
     their behavior can be aligned with human values and norms?
 
-![](/project/2018-09-22-group-three_files/liao.jpg)
+
 
 * [LIAO Beishui](https://person.zju.edu.cn/beishui) (Zhejiang University） 
     * WANG Yi (Zheijiang University) 
     * JU Fengkui (Beijing normal University)
-    * Olivier Roy (Bayreuth University)
+    * Olivier Roy (University of Bayreuth)
     * DONG Huimin (Zhejiang University)
     * Wu Xiaoan (Tsinghua University)

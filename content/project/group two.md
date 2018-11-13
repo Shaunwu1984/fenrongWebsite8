@@ -9,7 +9,7 @@ title = "Group Two"
 summary = "Belief revision guided by evidence and trust."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "zhang.jpg"
+image_preview = "xiaoyuan2.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,14 +23,14 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = ""
+caption = ""
 
 +++
 
 ## Belief revision guided by evidence and trust
 
-* The aspects that will explored by this group：
+
 
 Agents change their belief and opinions in social networks, under
 the influence of other agents. Rational agents do so with a
@@ -44,12 +44,12 @@ they do.  There are  various frameworks that have been developed
   we can ensure the group belief is approaching the true knowledge. 
 
 
-<img src="/project/group two_files/IMG_3879.JPG" alt="" width="80%"/>
+
 
 
 * [LIU Xinwen](https://baike.baidu.com/item/刘新文/893035) (Chinese Academy of Social Sciences) 
     + WANG Yanjing (Peking University) 
-    + YU Junhua (Tsinghua) 
-    + SHI Chenwei (Amsterdam) 
-    + Emiliano Lorini (Toulouse)
-    + Alexandru Baltag (Amsterdam)
+    + YU Junhua (Tsinghua University) 
+    + SHI Chenwei (University of Amsterdam) 
+    + Emiliano Lorini (Toulouse University)
+    + Alexandru Baltag (University of Amsterdam)

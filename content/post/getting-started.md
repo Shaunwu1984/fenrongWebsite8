@@ -12,8 +12,8 @@ authors = []
 summary = "Program Kick-off Workshop"
 
 [header]
-image = "headers/getting-started.jpg"
-caption = "木心画作"
+image = ""
+caption = ""
 
 [[gallery_item]]
 album = "1"
