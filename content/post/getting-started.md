@@ -1,5 +1,5 @@
 +++
-title = "The project “Logics of Information Flow in Social Networks”"
+title = "Kickoff Workshop of the project “Logics of Information Flow in Social Networks”"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
@@ -9,7 +9,7 @@ draft = false
 authors = []
 
 #tags = ["Academic"]
-summary = "Program Kick-off Workshop"
+summary = " "
 
 [header]
 image = ""
