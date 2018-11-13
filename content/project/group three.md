@@ -51,7 +51,7 @@ This has a close relationship  with the theory of
 
 * [LIAO Beishui](https://person.zju.edu.cn/beishui) (Zhejiang University） 
     * WANG Yi (Zheijiang University) 
-    * JU Fengkui (Beijing normal University)
+    * JU Fengkui (Beijing Normal University)
     * Olivier Roy (University of Bayreuth)
     * DONG Huimin (Zhejiang University)
     * Wu Xiaoan (Tsinghua University)

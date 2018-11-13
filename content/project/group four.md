@@ -52,6 +52,6 @@ Games are a powerful method for analyzing social practices, but
     + Dominik Klein (University of Bayreuth)  
     + GUO Meiyun (South West University)
     + XIONG Zuojun (South West University)
-    + JIANG Guifei (Nankai University）
+    + JIANG Guifei (Nankai University)
     + Davide Grossi (University of Groningen) 
     + LI Dazhu (Tsinghua University)

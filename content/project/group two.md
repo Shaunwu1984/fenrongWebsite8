@@ -51,5 +51,5 @@ they do.  There are  various frameworks that have been developed
     + WANG Yanjing (Peking University) 
     + YU Junhua (Tsinghua University) 
     + SHI Chenwei (University of Amsterdam) 
-    + Emiliano Lorini (Toulouse University)
+    + Emiliano Lorini (University of Toulouse)
     + Alexandru Baltag (University of Amsterdam)

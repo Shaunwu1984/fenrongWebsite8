@@ -57,7 +57,7 @@ how this depends on social structure and capacity to communicate.
 * Jeremy Seligman (Auckland & Tsinghua)
     + MA Minghui (Sun Yan-sen University)
     + DONG Huanfang  (Tsinghua University) 
-    + LIN Hanti (University of California,Davis)
+    + LIN Hanti (University of California, Davis)
     + ZHU Rui (Auckland University) 
     + CHEN Yu (Tsinghua University) 
 

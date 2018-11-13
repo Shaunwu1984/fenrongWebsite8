@@ -18,7 +18,7 @@ authors = ["刘奋荣","谢立民"]
 publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "即将发表"
+publication = "《暨南学报》即将发表"
 publication_short = ""
 
 # Abstract and optional shortened version.
