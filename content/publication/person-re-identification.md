@@ -18,7 +18,7 @@ authors = ["邢锟","陈钰"]
 publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "哲学动态（即将发表）"
+publication = "《哲学动态》（即将发表）"
 publication_short = ""
 
 # Abstract and optional shortened version.

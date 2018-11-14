@@ -18,7 +18,7 @@ authors = ["廖备水","余喆","莱恩∙范德托"]
 publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "清华大学学报（即将发表）"
+publication = "《清华大学学报》（即将发表）"
 publication_short = ""
 
 # Abstract and optional shortened version.
