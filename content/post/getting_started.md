@@ -11,9 +11,10 @@ authors = []
 summary = " "
 
 [header]
-image = ""
-caption = ""
+image = "headers/116.jpg"
+caption = "Group Photo"
 +++
+
 
 
 * Below is the program of this workshop:
@@ -25,3 +26,4 @@ caption = ""
 * Below is the poster:
 
 ![](/post/getting-started_files/poster1.png)
+
