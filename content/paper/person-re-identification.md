@@ -40,7 +40,7 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = [Chinese Paper]
+tags = ["Chinese Paper"]
 
 # Links (optional).
 #url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
