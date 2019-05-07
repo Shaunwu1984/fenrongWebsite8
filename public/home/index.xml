@@ -23,19 +23,19 @@
     
     <item>
       <title>Publications</title>
-      <link>/home/publications/</link>
+      <link>/home/paper/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/home/publications/</guid>
+      <guid>/home/paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>/home/talks_selected/</link>
+      <title>Publications</title>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/home/talks_selected/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
