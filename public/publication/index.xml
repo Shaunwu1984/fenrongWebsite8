@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publicationscn on Academic</title>
+    <title>Publications on Academic</title>
     <link>/publication/</link>
-    <description>Recent content in Publicationscn on Academic</description>
+    <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -13,11 +13,38 @@
     
     
     <item>
+      <title>From Oughts to Goals: A Logic for Enkrasia</title>
+      <link>/publication/2019-05-07-22/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-05-07-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logics for Analyzing Games</title>
+      <link>/publication/2019-05-08-22/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-05-08-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When Names Are Not Commonly Known: Epistemic Logic with Assignments</title>
       <link>/publication/2018-11-14-wwe/</link>
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>/publication/2018-11-14-wwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>国家社科基金重大项目“基于社交网络的信息流逻辑研究”研讨会会议综述</title>
+      <link>/publication/person-re-identification/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/person-re-identification/</guid>
       <description></description>
     </item>
     

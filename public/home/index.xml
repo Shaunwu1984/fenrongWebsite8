@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,15 +19,6 @@
       
       <guid>/home/about/</guid>
       <description>Logics of information Flow in Social Networks Living in a social world, we acquire information and knowledge, and also, we constantly form opinions that are the basis for our decisions and actions. The way these informational processes work is through agents interacting and influencing each other in social networks with a variety of social relations. Understanding social networks is the key to a logical understanding of the laws of information flow and the evolution of opinions.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/home/paper/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/home/paper/</guid>
-      <description></description>
     </item>
     
     <item>
