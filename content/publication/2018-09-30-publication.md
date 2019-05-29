@@ -1,6 +1,6 @@
 +++
 title = "关于规范、价值和偏好的实践推理"
-date = 2018-07-01T00:00:00
+date = 2019-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["廖备水","余喆","莱恩∙范德托"]
 publication_types = [2]
 
 # Publication name and optional abbreviated version.
-publication = "《清华大学学报》（即将发表）"
+publication = "《清华大学学报》"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "在设计人工智能主体的社会时,可以通过定义社会价值和规范来约束主体的行为。当不同规范之间发生冲突时,主体依据他/她对价值的排序做出决定,选择违反一些规范,遵守更重要的规范。关于规范的推理具有可废止性和非单调性。为研究非单调推理,20世纪80年代以来,出现了缺省逻辑、自认识逻辑、限定推理等形式系统。这些系统在实际应用中存在不少问题,比如,计算复杂性高、缺乏动态处理机制等。针对这些问题,本文引入基于价值排序的一种抽象规范系统,给出一种基于可废止逻辑的偏好规范推理模型和一种基于论辩逻辑的偏好规范推理模型,并比较了这两种模型的优缺点。前者适合于持谨慎态度的主体的认知推理,但在实践推理中可能导致某些规范系统的外延为空。后者不仅支持怀疑性推理,也支持轻信推理,在实践推理中具有优势。此外,基于论辩逻辑的偏好规范推理模型还能够发挥其抽象框架的优势,对不同论证之间的动态关系进行推理和研究。 "
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -57,7 +57,7 @@ tags = []
 #url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.13613/j.cnki.qhdz.002836"
 
 # Does this page contain LaTeX math? (true/false)
 math = true
