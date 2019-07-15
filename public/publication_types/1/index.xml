@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Characterizing the Expressivity of Game Description Languages</title>
+      <link>/publication/2019-07-15-guifei2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-07-15-guifei2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Converging on Common Knowledge</title>
+      <link>/publication/2019-07-15-klein2/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-07-15-klein2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Classical to Non-Monotonic Deontic Logic using ASPIC&#43;</title>
+      <link>/publication/2019-07-15-huimin/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-07-15-huimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game Equivalence and Bisimulation for Game Description Language</title>
+      <link>/publication/2019-08-15-guifei/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-08-15-guifei/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>When Names Are Not Commonly Known: Epistemic Logic with Assignments</title>
@@ -18,6 +54,15 @@
       <pubDate>Wed, 14 Nov 2018 00:00:00 +0800</pubDate>
       
       <guid>/publication/2018-11-14-wwe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A logic for temporal conditionals and a solution to the Sea Battle Puzzle</title>
+      <link>/publication/2019-07-15-fengkui/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-07-15-fengkui/</guid>
       <description></description>
     </item>
     
