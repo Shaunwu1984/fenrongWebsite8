@@ -6,8 +6,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building Jiminy Cricket: An Architecture for Moral Agreements Among Stakeholders</title>
+      <link>/publication/2019-08-09-beishui/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-08-09-beishui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective Belief as A Tendency towards Consensus</title>
+      <link>/publication/2019-08-baltag/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-08-baltag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justified True Belief Revisited in Topological Argumentation Model</title>
+      <link>/publication/2019-08-09-chenweishi-lori/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-08-09-chenweishi-lori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Losing Connections: Modal Logics of Link Deletion</title>
+      <link>/publication/dazhuli-journal/</link>
+      <pubDate>Fri, 09 Aug 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dazhuli-journal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterizing the Expressivity of Game Description Languages</title>
@@ -42,6 +78,15 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
       
       <guid>/publication/2019-08-15-guifei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Right Path: A Modal Logic for Supervised Learning</title>
+      <link>/publication/2019-08-09-dazhu-lori/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2019-08-09-dazhu-lori/</guid>
       <description></description>
     </item>
     
@@ -97,115 +142,6 @@
       
       <guid>/publication/2018-11-14-wwe/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/tutorial/example/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
-
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A logic for temporal conditionals and a solution to the Sea Battle Puzzle</title>
-      <link>/publication/2019-07-15-fengkui/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/2019-07-15-fengkui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Losing Connections: Modal Logics of Definable Link Deletion</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0800</pubDate>
-      
-      <guid>/publication/clothing-search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Group One</title>
-      <link>/project/group-one/</link>
-      <pubDate>Fri, 22 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/group-one/</guid>
-      <description>
-
-&lt;h2 id=&#34;logic-of-social-structure-and-social-influence&#34;&gt;Logic of social structure and social influence&lt;/h2&gt;
-
-&lt;p&gt;We emphasize the importance of social relations, and will study
-    systematically how they play a role in social communication. We
-   will explore social phenomena using tools from logic and computer
-  science, specifically the mechanisms by which these phenomena can
-   emerge from discrete interactions between individuals. As an
-  example, the diffusion of an idea within a community can be
- modelled using cellular automata or dynamic modal logic. Of
-  particular interest are epistemic interactions involving the
-  exchange of information and social aspects of knowledge, such the
-  ways in which knowledge can be said to be possessed by groups and
-how this depends on social structure and capacity to communicate.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Jeremy Seligman (Auckland &amp;amp; Tsinghua)
-
-&lt;ul&gt;
-&lt;li&gt;MA Minghui (Sun Yan-sen University)&lt;/li&gt;
-&lt;li&gt;DONG Huanfang  (Tsinghua University)&lt;/li&gt;
-&lt;li&gt;LIN Hanti (University of California, Davis)&lt;/li&gt;
-&lt;li&gt;ZHU Rui (Auckland University)&lt;/li&gt;
-&lt;li&gt;CHEN Yu (Tsinghua University)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Group Two</title>
-      <link>/project/group-two/</link>
-      <pubDate>Thu, 21 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>/project/group-two/</guid>
-      <description>
-
-&lt;h2 id=&#34;belief-revision-guided-by-evidence-and-trust&#34;&gt;Belief revision guided by evidence and trust&lt;/h2&gt;
-
-&lt;p&gt;Agents change their belief and opinions in social networks, under
-the influence of other agents. Rational agents do so with a
-reason, they may  collect evidence, or argument, to justify what
-they do.  There are  various frameworks that have been developed
- to model it. For this project, we would like to compare the
-  existing frameworks, and develop some tools that can help us to
-  see how the opinions with evidence would spread and so that we
-  could make predictions. In addition,  we would like to connect
-  this to other theories, say, the learning theory, by asking how
-  we can ensure the group belief is approaching the true knowledge.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://baike.baidu.com/item/刘新文/893035&#34; target=&#34;_blank&#34;&gt;LIU Xinwen&lt;/a&gt; (Chinese Academy of Social Sciences)
-
-&lt;ul&gt;
-&lt;li&gt;WANG Yanjing (Peking University)&lt;/li&gt;
-&lt;li&gt;YU Junhua (Tsinghua University)&lt;/li&gt;
-&lt;li&gt;SHI Chenwei (University of Amsterdam)&lt;/li&gt;
-&lt;li&gt;Emiliano Lorini (University of Toulouse)&lt;/li&gt;
-&lt;li&gt;Alexandru Baltag (University of Amsterdam)&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
     </item>
     
   </channel>
